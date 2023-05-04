@@ -1,6 +1,6 @@
 ---
 # YAML metadata
-title: "A talk about something"
+title: "Beyond what works — in practice"
 author: "Matthew Brett"
 linkcolor: blue
 urlcolor: blue
@@ -12,7 +12,11 @@ suppress-bibliography: true
 <#endif>
 ---
 
-# How not be wrong
+# The plan
+
+* Apply thinking about how decisions are made, and on what information
+* Use two examples where the decision was controversial, where the outcome is
+  now (mostly) known, and may well have had negative consequences.
 
 # Background to problem 1 — homeopathy and cholera
 
@@ -50,23 +54,51 @@ health risk, of national concern.
 
 # Background to problem 2 — Covid-19 and masks
 
-With apology for US-focus.
-
-* Feb 29 2020 : Surgeon general tweets "STOP BUYING MASKS!  They are NOT
+* Introducing the [Cochrane collaboration](https://www.cochranelibrary.com).
+* [2020: Physical interventions to interrupt or reduce the spread of
+  respiratory
+  viruses](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub5/full):
+  "The pooled results of randomised trials did not show a clear reduction in
+  respiratory viral infection ...".
+* Feb 2020 : US Surgeon general tweets "STOP BUYING MASKS!  They are NOT
   effective in preventing general public from catching coronavirus ..."
+* March 2020 : Antony Fauci interview on "60 minutes" : ["There's no reason to
+  be walking around with
+  a mask"](https://www.cbsnews.com/news/preventing-coronavirus-facemask-60-minutes-2020-03-08/)
 
-[Timeline of mask
-advice](https://www.latimes.com/science/story/2021-07-27/timeline-cdc-mask-guidance-during-covid-19-pandemic)
+# Background 2, continued
 
-# Mask discussion
+* May 2020 : "Some sort of mask-like facial covering ... should be a very
+  regular part of how we prevent the spread of infection": [Fauci zoom
+  interview](https://www.c-span.org/video/?c4875553/user-clip-fauci-flips-statement-60-minutes-masks).
+* And on to mask mandates!
+* Finally - the [updated Cochrane
+  review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full):
 
-* [Cochrane
-  review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full)
+  > The pooled results of RCTs did not show a clear reduction in respiratory
+  viral infection with the use of medical/surgical masks. There were no clear
+  differences between the use of medical/surgical masks compared with N95/P2
+  respirators in healthcare workers when used in routine care to reduce
+  respiratory viral infection. 
+
+# Your second task
+
+Assume you share the conclusions of the 2020 and (later) the 2023 version of
+the Cochrane review about the effectiveness of masks. You are advising Chris
+Whitty (Chief Medical Officer).
+
+* What recommendation do you give in March 2020?  Do you recommend masks?
+  What type?  A mask mandate?   Why or why not?
+* What recommendation do you give in March 2021?  Why has your advice changed?
+* If your recommendations were different from the ones we saw, why do you
+  think that is?
+* What would you have done over that period, to improve your advice, or
+  communication?
+
+# For interest — media follow-up
+
 * [Guardian opinion
   piece](https://www.theguardian.com/commentisfree/2023/feb/27/dont-believe-those-who-claim-science-proves-masks-dont-work)
-
-# More information on masks
-
 * [Guardian opinion author Lucky Tran's biographical
   information](https://www.linkedin.com/feed/update/urn:li:activity:7036033611589935104)
 * [Tom Jefferson's biographical
