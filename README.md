@@ -1,17 +1,3 @@
-# A talk template
+# Beyond what works
 
-Rename the `the_talk.md` file.
-
-```
-git submodule update --init
-```
-
-```
-make
-```
-
-Eventually consider adding the built PDF files:
-
-```
-git add -f *.pdf
-```
+Slides and handouts for May 4 2023 session at LIS.
