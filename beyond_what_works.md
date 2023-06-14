@@ -56,9 +56,10 @@ olds](https://www.cdc.gov/mmwr/volumes/70/wr/mm7023e1.htm#:~:text=COVID%2D19%20a
 # Your second task
 
 It is January 2021.  The Covid mRNA vaccine has been approved and is being
-rolled out for adults.  There is, as yet, no clear sign about You are the
-leader of a group that will give advice to the governor of a US state on their
-policy for Covid vaccination for children and adolescents.
+rolled out for adults.  There is, as yet, no clear sign about vaccine harms,
+but you know this is an as-yet little-tested and novel vaccine delivery method.
+You are the leader of a group that will give advice to the governor of a US
+state on their policy for Covid vaccination for children and adolescents.
 
 * What recommendation do you give in January 2021?  Do you recommend childhood
   vaccination?
