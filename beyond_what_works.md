@@ -99,12 +99,20 @@ Whitty (Chief Medical Officer).
 
 * [Guardian opinion
   piece](https://www.theguardian.com/commentisfree/2023/feb/27/dont-believe-those-who-claim-science-proves-masks-dont-work)
+
+# More information on masks
+
+
 * [Guardian opinion author Lucky Tran's biographical
   information](https://www.linkedin.com/feed/update/urn:li:activity:7036033611589935104)
 * [Tom Jefferson's biographical
   information](https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist))
 * [Discussion of Guardian opinion piece by Vinay
   Prasad](https://www.youtube.com/watch?v=2YefLYKq0EE)
+* [The mask
+  debacle](https://www.tabletmag.com/sections/science/articles/the-mask-debacle)
+* [CDU
+  monitoring](https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown)
 
 # The end
 
