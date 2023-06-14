@@ -116,6 +116,21 @@ Whitty (Chief Medical Officer).
 * [Vaccines hestitancy and
   Covid](https://www.healthaffairs.org/content/forefront/has-covid-19-threatened-routine-childhood-vaccination-insights-us-public-opinion-polls)
 
+Clinical nyocarditis after second dose in 12-17 year old males, after Covid vaccination:
+
+* [1 in 2,680 after dose 2 in Hong Kong](https://pubmed.ncbi.nlm.nih.gov/34849657)
+* [1 in 2,650 in Kaiser Permanente health
+  system](https://www.medrxiv.org/content/10.1101/2021.12.21.21268209v1)
+
+Subclinical - unknown, but:
+
+* A Thai study showed [2.3% raised cardiac biomarker or lab study
+  positive]([https://www.preprints.org/manuscript/202208.0151/v1) after Pfizer
+  vaccination.
+
+See the [CDC data on hospitalization rate for Covid in 12-17 year
+olds](https://www.cdc.gov/mmwr/volumes/70/wr/mm7023e1.htm#:~:text=COVID%2D19%20adolescent%20hospitalization%20rates,rose%20to%201.3%20in%20April)
+
 # The end
 
 Materials at <https://github.com/matthew-brett/lis-leadership>.
