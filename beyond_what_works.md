@@ -113,6 +113,8 @@ Whitty (Chief Medical Officer).
   debacle](https://www.tabletmag.com/sections/science/articles/the-mask-debacle)
 * [CDU
   monitoring](https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown)
+* [Vaccines hestitancy and
+  Covid](https://www.healthaffairs.org/content/forefront/has-covid-19-threatened-routine-childhood-vaccination-insights-us-public-opinion-polls)
 
 # The end
 
