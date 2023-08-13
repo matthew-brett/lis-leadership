@@ -41,6 +41,9 @@ Subclinical - rate unclear, but:
 * A Thai study showed [2.3% raised cardiac biomarker or lab study
   positive]([https://www.preprints.org/manuscript/202208.0151/v1) after Pfizer
   vaccination.
+* In a study in Swiss health-care employees ["vaccine-associated myocardial
+  injury was adjudicated in 22 participants \[of 777\]
+  (2.8%)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ejhf.2978).
 
 See the [CDC data on hospitalization rate for Covid in 12-17 year
 olds](https://www.cdc.gov/mmwr/volumes/70/wr/mm7023e1.htm#:~:text=COVID%2D19%20adolescent%20hospitalization%20rates,rose%20to%201.3%20in%20April)
