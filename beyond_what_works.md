@@ -17,7 +17,7 @@ suppress-bibliography: true
 * Apply thinking about how decisions are made, and on what information.
 * Consider the use of, and loss of, collective intelligence, and the role of
   herd thinking.
-* Discuss an example where the decision was controversial, where the outcome
+* Discuss examples where the decision was controversial, where the outcome
   is now (mostly) known, and may well have had negative consequences.
 
 # Groupthink
