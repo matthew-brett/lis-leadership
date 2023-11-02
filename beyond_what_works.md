@@ -20,6 +20,62 @@ suppress-bibliography: true
 * Discuss an example where the decision was controversial, where the outcome
   is now (mostly) known, and may well have had negative consequences.
 
+# Groupthink
+
+First coined by [@janis1972victims] discussing Bay of Pigs invasion.
+
+# Bay of Pigs
+
+* Planned under Eisenhower administration, executed by Kennedy.
+* 15 April 1961 - CIA-supplied B26 bombers bomb Cuban airfields.
+* 17 April — 1400 CIA-funded paramilitaries landed in Bay of Pigs.
+* Soon opposed by about 20,000 Cuban troops.
+* Kennedy withdraws [further planned air
+  support](https://www.bbc.co.uk/news/world-latin-america-13066561)
+* 20 April — surrender.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion)
+
+# Putting the group into groupthink
+
+> There were 50 or so of us, presumably the most experienced and smartest
+people we could get, to plan such an operation. Most of us thought it would
+work. ... But five minutes after it began to fall in, we all looked at each
+other and asked, 'How could we have been so stupid?'. [Time
+article](https://content.time.com/time/nation/article/0,8599,106537,00.html).
+
+# Groups and groupthink
+
+> [The advisors] never pressed, partly out of a fear of being labeled ‘soft’ or
+undaring in the eyes of their colleagues. (Janis 1972).
+
+
+> ... senior officials were unanimous for going ahead… Had one senior advisor
+opposed the adventure, I believe that Kennedy would have canceled it. No one
+spoke against it." (Arthur Schlesinger, Jr.)
+
+# Background to problem 1 — homeopathy and cholera
+
+* The government anticipated the cholera epidemic of 1854.
+* It sacked a competent Board of Health and appointed an eminent one.
+* This Board produced multiple confused reports that failed to take Snow's
+  observations into account.
+* It did produce mortality figures for the London hospitals.
+
+See [@hempel2014medical; @paneth1998rivalry].
+
+# Background — homeopathy and cholera
+
+In the 1854 Cholera epidemic:
+
+* London Homeopathic Hospital (LHH) : 10 deaths of 61 cases admitted (16.4%)
+  (this information did not appear in the Board's reports).
+* Middlesex hospital : 123 / 231 cases (53.2%) (this did appear).
+
+See [this page on the London Homeopathic Hospital
+(LHH)](https://www.uclh.nhs.uk/our-services/our-hospitals/royal-london-hospital-integrated-medicine/history-royal-london-hospital-integrated-medicine)
+
+
 # Background to problem — Covid-19 and childhood vaccination
 
 * [UK: 38.6% uptake of vaccination for 18-29 years
