@@ -75,6 +75,18 @@ In the 1854 Cholera epidemic:
 See [this page on the London Homeopathic Hospital
 (LHH)](https://www.uclh.nhs.uk/our-services/our-hospitals/royal-london-hospital-integrated-medicine/history-royal-london-hospital-integrated-medicine)
 
+# Your task
+
+Imagine yourself, as far as you can, as being a contemporary of the events, in
+1854 and 1855.   The epidemic is over, but cholera continues to be a major
+health risk, of national concern.
+
+* You are the Board.  You have the figures for the LHH.  You do not believe
+  homeopathy is an effective treatment.  Do you release the figures?  If so, why?  If not, why not?
+* You are an MP.  Someone has pointed out the missing figures for LHH.  How do
+  you respond?
+* You are an administrator in a hospital.  The figures are confirmed.  How do
+  you respond?
 
 # Background to problem — Covid-19 and childhood vaccination
 
